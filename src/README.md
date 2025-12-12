@@ -2,34 +2,32 @@
 
 Landing page oficial da MOSA Intelligence - Desenvolvimento de Software e Cybersegurança.
 
-## 🚀 Tecnologias
-
-- React 18
-- TypeScript
-- Vite
-- Tailwind CSS 4.0
-- Lucide Icons
-
-## 📦 Instalação
+## 🚀 Desenvolvimento Local
 
 ```bash
+# Instalar dependências
 npm install
-```
 
-## 🔧 Desenvolvimento
-
-```bash
+# Rodar localmente
 npm run dev
-```
 
-## 🏗️ Build
-
-```bash
+# Build para produção
 npm run build
 ```
 
 ## 📧 Contato
 
 - Email: mosaintelligence@gmail.com
-- Telefone: +55 (16) 99138-5665
-- Site: https://mosaintelligence.com.br
+- Telefone: 16 99138-5665
+- Site: mosaintelligence.com.br
+
+## 🛠️ Tecnologias
+
+- React + TypeScript
+- Vite
+- Tailwind CSS 4.0
+- Lucide Icons
+
+---
+
+**MOSA Intelligence** - Protegendo o Futuro Digital

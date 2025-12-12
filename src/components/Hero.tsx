@@ -1,6 +1,5 @@
 import { Shield, ChevronRight } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
-import { Logo } from './Logo';
 
 export function Hero() {
   const scrollToContact = () => {

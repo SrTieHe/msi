@@ -1,4 +1,4 @@
-import { Shield, Code, Lock, Zap, Target, Users, ChevronRight, Menu, X } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { Hero } from './components/Hero';
 import { Services } from './components/Services';
