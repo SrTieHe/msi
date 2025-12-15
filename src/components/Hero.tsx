@@ -54,7 +54,7 @@ export function Hero() {
           </h1>
           
           <p className="text-xl text-slate-300 mb-8 max-w-2xl">
-            Soluções avançadas em cybersegurança e desenvolvimento de software para empresas que não podem se dar ao luxo de vulnerabilidades.
+            Onde vulnerabilidades não são uma opção. Software e segurança no mais alto nível.
           </p>
 
           <div className="flex flex-wrap gap-4">
