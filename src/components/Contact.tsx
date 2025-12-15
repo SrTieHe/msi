@@ -67,7 +67,7 @@ export function Contact() {
               </div>
               <h3 className="text-lg mb-2">Telefone</h3>
               <p className="text-slate-400 text-sm">+55 (16) 99138-5665</p>
-              <p className="text-slate-400 text-sm">Seg - Sex: 9h às 18h</p>
+              <p className="text-slate-400 text-sm">Segunda - Sexta: 9h às 18h</p>
             </div>
 
             <div className="bg-slate-800/50 border border-cyan-500/20 rounded-lg p-6">
