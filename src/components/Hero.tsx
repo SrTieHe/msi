@@ -54,7 +54,7 @@ export function Hero() {
           </h1>
           
           <p className="text-xl text-slate-300 mb-8 max-w-2xl">
-            Onde vulnerabilidades não são uma opção. Software e segurança no mais alto nível.
+            Onde vulnerabilidades não são uma opção. Inteligência em software e segurança avançada para proteger o núcleo do seu negócio.
           </p>
 
           <div className="flex flex-wrap gap-4">
